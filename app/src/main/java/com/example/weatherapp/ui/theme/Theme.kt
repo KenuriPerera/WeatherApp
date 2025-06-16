@@ -13,9 +13,9 @@ import androidx.compose.material3.Shapes
 import androidx.compose.ui.unit.dp
 
 private val WeatherColorScheme = lightColorScheme(
-    primary = Color(0xFF0288D1),
+    primary = Color(0xFF1D97DA),
     secondary = Color(0xFFFFA000),
-    background = Color(0xFFF5F7FA),
+    background = Color(0xFFA4BEE6),
     surface = Color(0xFFFFFFFF),
     onPrimary = Color(0xFFFFFFFF),
     onSecondary = Color(0xFF000000),
